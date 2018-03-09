@@ -1,0 +1,55 @@
+&&&&&&&&&&&&&&&&&&& Mr.Bagel &&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&& Stock Report &&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&22/11/2017 17:57:25&&&&&&&&&&&&&&&&&
+				Small				Regular				Medium				Large			Extlarge
+
+
+
+
+Halloumi
+				2				3				4				5				6
+
+Bangkok
+				4				4				7				13				2
+
+Chicken Philly
+				6				5				10				11				0
+
+Classic Club
+				8				6				13				12				2
+
+Kiltimagh Special 
+				12				45				32				23				4
+
+Veggie
+				12				8				19				12				6
+
+Ploughmans
+				8				5				12				4				3
+
+Mexicana
+				4				2				5				7				4
+
+Triple Cheese
+				0				7				4				10				5
+
+Atlantic Way
+				3				8				6				8				6
+
+Breakfast
+				6				9				8				6				7
+
+Maui
+				9				10				10				4				8
+
+Classic
+				12				11				12				21				9
+
+Chicken Caeser
+				10				7				8				4				6
+
+Student Surprise
+				55				3				4				6				23
+
+Cajun
+				6				5				0				8				8
